@@ -1,2 +1,1 @@
-# bootstrap-template
-bootstrap template, using tinder as mock
+Basic color & white sectioned landing page. Modeled after Tinder.
